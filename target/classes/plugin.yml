@@ -1,0 +1,4 @@
+name: FactionsProtection
+version: '1.0-SNAPSHOT'
+main: me.hi.FactionsProtection
+api-version: '1.21'

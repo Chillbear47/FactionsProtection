@@ -1,0 +1,4 @@
+name: FactionsProtection
+version: '${project.version}'
+main: me.hi.FactionsProtection
+api-version: '1.21'
